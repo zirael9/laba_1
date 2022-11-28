@@ -15,6 +15,5 @@ for i in range(len(sides)):
                 if s>smax:
                     smax=s
 
-print('hello')
 
 print("Максимальная площадь треугольника", smax)
